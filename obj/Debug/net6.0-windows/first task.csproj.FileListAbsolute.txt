@@ -1,0 +1,17 @@
+D:\top academy\дз\first task\bin\Debug\net6.0-windows\first task.exe
+D:\top academy\дз\first task\bin\Debug\net6.0-windows\first task.deps.json
+D:\top academy\дз\first task\bin\Debug\net6.0-windows\first task.runtimeconfig.json
+D:\top academy\дз\first task\bin\Debug\net6.0-windows\first task.dll
+D:\top academy\дз\first task\bin\Debug\net6.0-windows\first task.pdb
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first_task.Form1.resources
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.csproj.GenerateResource.cache
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.GeneratedMSBuildEditorConfig.editorconfig
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.AssemblyInfoInputs.cache
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.AssemblyInfo.cs
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.csproj.CoreCompileInputs.cache
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.dll
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\refint\first task.dll
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.pdb
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first task.genruntimeconfig.cache
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\ref\first task.dll
+D:\top academy\дз\first task\obj\Debug\net6.0-windows\first_task.task_3.resources
